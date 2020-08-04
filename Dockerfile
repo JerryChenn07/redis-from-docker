@@ -1,4 +1,4 @@
-from redis:3.2.9
+from redis:5.0.9
 
 ENV TZ Asia/Shanghai
 
